@@ -3,14 +3,14 @@ from rich import print
 
 system("clear||cls")
 
-print("[red on white]Welcome to your first day of Dragon Training![/red on white]")
+print("[red on white]ESCAPE THE ABANDONED SCHOOL[/red on white]")
 
-print("Today you will start your journey as a [bold cyan underline]dragon hunter[/bold cyan underline]. This class will help you learn all of the tricks and treats of training your own dragon pet")
-print("")
-print("What do you want to do next?")
-print("1. Look at the [bold red]dragon pen")
-print("2. Introduce yourself to some of the people in your class")
+print("You wake up inside an abandoned school.")
+print("You don't remember how you got there.")
+print("All of the doors are locked.")
+print("You hear heavy footsteps coming from upstairs.")
 
+      
 choice = input("Make a choice!:")
 if input == "1":
     print("You are looking at the dragon pen.")
